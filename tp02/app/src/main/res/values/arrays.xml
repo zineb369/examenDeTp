@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="status_array">
+        <item>Absent</item>
+        <item>Présent</item>
+    </string-array>
+</resources>
